@@ -11,7 +11,7 @@ public:
 		price = _price;
 		toeslag = _toeslag;
 
-		override void calculatePrice() {}
+		void calculatePrice() {}
 	}
 
 	Train~();
