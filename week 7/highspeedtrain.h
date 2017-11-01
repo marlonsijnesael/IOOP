@@ -13,7 +13,7 @@ public:
 
 		
 	}
-	void calculatePrice() {}
+	void calculatePrice();
 	Train~();
 
 }
