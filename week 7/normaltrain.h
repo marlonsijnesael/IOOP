@@ -11,7 +11,7 @@ public:
 		price = _pricePerKm;
 	}
 
-		 void calculatePrice() {}
+		 void calculatePrice() ;
 
 		Train~();
 	}
