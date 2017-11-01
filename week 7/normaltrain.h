@@ -1,6 +1,6 @@
 #pragma once
 
-#include "vervoersmiddel.h"
+#include "vervoer.h"
 
 class NormalTrain : vervoersmiddel
 {
